@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as s,a as c}from"./index-iFRdgdCt.js";const t={},n={class:"oldmoon_move"},_=c("div",{id:"oldmoon",class:"oldmoon"},null,-1),a=[_];function d(r,l){return e(),s("div",n,a)}const m=o(t,[["render",d]]);export{m as default};
