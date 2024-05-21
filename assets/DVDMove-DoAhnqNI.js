@@ -1,0 +1,1 @@
+import{_ as o,o as e,b as s,d as c}from"./index-DHCAOzYe.js";const t={},n={class:"oldmoon_move"},_=c("div",{id:"oldmoon",class:"oldmoon"},null,-1),d=[_];function a(r,l){return e(),s("div",n,d)}const m=o(t,[["render",a]]);export{m as default};
